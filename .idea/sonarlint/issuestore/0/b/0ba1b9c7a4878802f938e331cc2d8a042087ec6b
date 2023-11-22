@@ -1,0 +1,11 @@
+
+e
+java:S2259"BA "NullPointerException" could be thrown; "conn" is nullable here.(«æíÕÿÿÿÿÿ8ªÍ£¿1
+r
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(«æíÕÿÿÿÿÿ8ªÍ£¿1
+G	java:S106%"+Replace this use of System.out by a logger.(ÊËïò8¨ªÍ£¿1
+M	java:S106¹"+Replace this use of System.out by a logger.(õÀ¸Œşÿÿÿÿ8æ«Í£¿1
+X
+java:S1144i"6Remove this unused private "closeConnectionST" method.(úÛøÿÿÿÿ8ø«Í£¿1
+Q
+java:S1144¤".Remove this unused private "sendEmail" method.(ªäÕñúÿÿÿÿ8ø«Í£¿1
